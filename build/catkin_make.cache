@@ -1,2 +1,2 @@
-
+new_work
 -DCATKIN_DEVEL_PREFIX=/home/sun234/new_work/devel -DCMAKE_INSTALL_PREFIX=/home/sun234/new_work/install -G Unix Makefiles
